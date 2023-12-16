@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    csv (3.2.8)
+    json (2.7.1)
+    nokogiri (1.15.5-x86_64-linux)
+      racc (~> 1.4)
+    racc (1.7.3)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  csv
+  json
+  nokogiri
+
+BUNDLED WITH
+   2.4.10
