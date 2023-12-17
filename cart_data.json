@@ -99,20 +99,6 @@
     "release_date": "Jul 1, 1994"
   },
   {
-    "id": "2641",
-    "author": "Forster, E. M. (Edward Morgan), 1879-1970",
-    "title": "A Room with a View",
-    "subjects": [
-      "Humorous stories",
-      "England -- Fiction",
-      "Young women -- Fiction",
-      "British -- Italy -- Fiction",
-      "Florence (Italy) -- Fiction"
-    ],
-    "language": "English",
-    "release_date": "May 1, 2001"
-  },
-  {
     "id": "37106",
     "author": "Alcott, Louisa May, 1832-1888",
     "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
@@ -129,16 +115,6 @@
     ],
     "language": "English",
     "release_date": "Aug 16, 2011"
-  },
-  {
-    "id": "100",
-    "author": "Shakespeare, William, 1564-1616",
-    "title": "The Complete Works of William Shakespeare",
-    "subjects": [
-      "English drama -- Early modern and Elizabethan, 1500-1600"
-    ],
-    "language": "English",
-    "release_date": "Jan 1, 1994"
   },
   {
     "id": "67979",

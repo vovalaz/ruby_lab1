@@ -10,6 +10,7 @@ class Book
   end
 
   def info(block)
+    yield self if block_given?
   end
 
   def as_json(options = nil)
@@ -25,8 +26,5 @@ class Book
 
   def to_s()
     return "Book information:\n# - #{id}, \nauthor - #{author}, \ntitle - #{title}, \nsubjects - #{subjects}, \nlanguage - #{language}, \nrelease date - #{release_date})"
-  end
-
-  def to_h()
   end
 end

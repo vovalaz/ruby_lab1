@@ -6,7 +6,4 @@ class MainApplication
     @user_password = user_password
     @file_path = file_path
   end
-  
-  def configure
-  end
 end
